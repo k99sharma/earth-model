@@ -15,7 +15,8 @@ const createClouds = ()=>{
     const geometry   = new SphereGeometry(0.503, 32, 32);
     const material  = new MeshPhongMaterial({
         map : canvasCloud,
-        transparent : true
+        transparent : true,
+        depthTest : false
     });
 
     const cloudMesh = new Mesh(geometry, material);
