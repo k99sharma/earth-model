@@ -22,7 +22,7 @@
 ## Geolocation Feature
 - Earth in model is assumed to be Spherical in shape rather than Elliptical
 - Geolocation is done using `latitude` and `longitude` of location
-- Geolocation feature works on [Haversine](https://en.wikipedia.org/wiki/Haversine_formula) formula
+- See how to convert latitude and longitude into 3D coordinate [Spherical Coordinate](https://en.wikipedia.org/wiki/Spherical_coordinate_system#Cartesian_coordinates)
 ``` javascript 
   world.findLocation(latitude, longitude);
 ```
