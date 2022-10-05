@@ -56,6 +56,10 @@
   Australia (25.2744° S, 133.7751° E) -> (-25.2744, 133.7751)
 ```
 
+## Find this repository userful? :heart:
+Give it a star.
+<br>Also, __[Follow me](https://github.com/k99sharma)__ on GitHub for my next creations! 😎
+
 # LICENSE
 ```xml
 Designed and developed by 2021 (Kalash Sharma)
