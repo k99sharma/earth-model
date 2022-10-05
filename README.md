@@ -57,7 +57,7 @@
 ```
 
 ## Find this repository userful? :heart:
-Give it a star.
+Star the repository. 🌟
 <br>Also, __[Follow me](https://github.com/k99sharma)__ on GitHub for my next creations! 😎
 
 # LICENSE
